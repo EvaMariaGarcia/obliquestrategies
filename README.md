@@ -2,4 +2,4 @@
 
 ## Oblique Thoughts 
 
-[Oblique Thoughts](https://github.com/EvaMariaGarcia/obliquestrategies/obliquestrategies.html)
+[Oblique Thoughts](https://github.com/EvaMariaGarcia/obliquestrategies/index.html)
